@@ -9,5 +9,4 @@ public class DubboServerApplication {
     public static void main(String[] args) {
         SpringApplication.run(DubboServerApplication.class, args);
     }
-
 }
